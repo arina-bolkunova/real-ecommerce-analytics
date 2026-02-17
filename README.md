@@ -1,6 +1,6 @@
 # real-ecommerce-analytics
 
-This project demonstrates powerful **data exploration and visualization** using the **OLIST** dataset — a rich Brazilian e-commerce dataset capturing real customer orders, product details, payments, and seller information.
+This project demonstrates powerful **data exploration and visualization** using the **OLIST** dataset - a rich Brazilian e-commerce dataset capturing real customer orders, product details, payments, and seller information.
 
 ---
 
